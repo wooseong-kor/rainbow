@@ -14,8 +14,14 @@
 =======
 <h1>죽일까</h1>
 <h1>이상해</h1>
+<<<<<<< HEAD
 <h1>이상해</h1>
 <h1>살려주세요</h1>
+>>>>>>> branch 'master' of https://github.com/wooseong-kor/rainbow.git
+=======
+<h1>이상한말하는거 아니야...그러는거 아니야</h1>
+<h1>대가리 박겠습니다</h1>
+<h1>푹자고싶다</h1>
 >>>>>>> branch 'master' of https://github.com/wooseong-kor/rainbow.git
 </body>
 </html>
